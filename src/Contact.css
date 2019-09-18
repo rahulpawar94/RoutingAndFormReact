@@ -3,7 +3,7 @@
     height: 300px;
     background: #7bed9f;
     color: white;
-    display: flex;
+    /* display: flex; */
     justify-content: space-around;
     align-items: center;
 }
